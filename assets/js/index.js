@@ -40,7 +40,6 @@ function readURL(input) {
             $('.image-title').html(input.files[0].name);    
             $('.file-upload-init').hide();
             $('.file-upload-btn').hide();
-            
         };
         reader.readAsDataURL(input.files[0]);
     } else {
@@ -55,6 +54,7 @@ function removeUpload() {
     $('.file-upload-init').show();
     $('.file-upload-btn').show();
 }
+
 $('.file-upload-init').bind('dragover', function () {
     $('.file-upload-init').addClass('file-dropping');
 });
