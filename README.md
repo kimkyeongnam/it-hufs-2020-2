@@ -11,8 +11,8 @@
 |김경남| - 웹 프론트 개발 <br> - Image crawler 및 국가농작물병해충관리시스템 crawler 제작 <br> - 분석기술 조사 및 정리|
 |박수연| - 자료조사 <br> - ppt 제작 <br> - 발표|
 |이민정| - 자료조사 <br> - ppt 제작 <br> - 발표|
-|이화정| - 자료조사 <br> - ppt 제작 <br> - 발표|
-|이혜은| - 자료조사 <br> - ppt 제작 <br> - 발표|
+|이화정| - 자료조사 <br> - ppt 제작|
+|이혜은| - 자료조사 <br> - ppt 제작|
 
 ### 프로젝트 개발환경 및 언어
 * Ubuntu 18.04 LTS 또는 Windows10
@@ -40,7 +40,6 @@ cd it-hufs-2020-2
 |   |-- pestx.PNG
 |   `-- ladybug_logo.PNG
 |-- if-hufs-2020-2
-|   |-- run.py
 |   |-- preprocessign.py
 |   |-- data
 |   |   |-- pests.txt
@@ -81,5 +80,5 @@ cd it-hufs-2020-2
     |   `-- chromedriver_linux64.zip
     `-- README.md
 
-9 directories, 37 files
+9 directories, 36 files
 ```
